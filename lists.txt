@@ -1,0 +1,4 @@
+nissan,juke,7000,2002,SEDAN
+ford,escape,6500,2008,SUV
+bmw,x5,12000,2008,SUV
+dodge,charger,10000,2010,SEDAN
